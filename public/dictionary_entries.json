@@ -1,0 +1,264 @@
+{
+    "words": [
+        {
+            "word": "آسمان",
+            "roman": "aasman",
+            "pronunciation": "aasman-doo",
+            "definitions": [
+                "The sky or heavens",
+                "The upper atmosphere of Earth"
+            ],
+            "examples": [
+                "آسمان نیلا ہے",
+                "رات کے آسمان میں ستارے چمکتے ہیں"
+            ],
+            "synonyms": [
+                "فلک",
+                "جنت"
+            ],
+            "categories": [
+                "Nature",
+                "Space"
+            ],
+            "tags": [
+                "sky",
+                "heaven"
+            ],
+            "id": "1001"
+        },
+        {
+            "word": "باغ",
+            "roman": "baagh",
+            "pronunciation": "baagh-doo",
+            "definitions": [
+                "A piece of ground where flowers and plants are grown",
+                "A cultivated area with trees and plants"
+            ],
+            "examples": [
+                "باغ میں کئی طرح کے پھول ہیں",
+                "میں باغ میں ٹہلنے جاتا ہوں"
+            ],
+            "synonyms": [
+                "باغیچہ",
+                "جنت"
+            ],
+            "categories": [
+                "Nature",
+                "Gardening"
+            ],
+            "tags": [
+                "garden",
+                "plants"
+            ],
+            "id": "1002"
+        },
+        {
+            "word": "چاند",
+            "roman": "chaand",
+            "pronunciation": "chaand-doo",
+            "definitions": [
+                "Earth's natural satellite",
+                "The moon as seen from Earth"
+            ],
+            "examples": [
+                "آج چاند خوبصورت ہے",
+                "چاند کی روشنی میں سارا باغ چمک رہا ہے"
+            ],
+            "synonyms": [
+                "قمر",
+                "ماہ"
+            ],
+            "categories": [
+                "Space",
+                "Nature"
+            ],
+            "tags": [
+                "moon",
+                "night"
+            ],
+            "id": "1003"
+        },
+        {
+            "word": "دل",
+            "roman": "dil",
+            "pronunciation": "dil-doo",
+            "definitions": [
+                "The organ that pumps blood through the body",
+                "The center of emotions and feelings"
+            ],
+            "examples": [
+                "دل کی دھڑکن زندگی کی نشانی ہے",
+                "دل کی بات کبھی کبھی زبان پر نہیں آتی"
+            ],
+            "synonyms": [
+                "قلب",
+                "ہیئت"
+            ],
+            "categories": [
+                "Body",
+                "Emotion"
+            ],
+            "tags": [
+                "heart",
+                "emotion"
+            ],
+            "id": "1004"
+        },
+        {
+            "word": "انسان",
+            "roman": "insaan",
+            "pronunciation": "insaan-doo",
+            "definitions": [
+                "A human being",
+                "A member of the species Homo sapiens"
+            ],
+            "examples": [
+                "انسان اشرف المخلوقات ہے",
+                "ہر انسان کی اپنی کہانی ہے"
+            ],
+            "synonyms": [
+                "بشر",
+                "آدمی"
+            ],
+            "categories": [
+                "Human",
+                "Society"
+            ],
+            "tags": [
+                "human",
+                "person"
+            ],
+            "id": "1005"
+        },
+        {
+            "word": "جنگل",
+            "roman": "jangal",
+            "pronunciation": "jangal-doo",
+            "definitions": [
+                "A large area covered chiefly with trees and undergrowth",
+                "A wild and uncultivated area of land"
+            ],
+            "examples": [
+                "جنگل میں کئی طرح کے جانور رہتے ہیں",
+                "جنگل کی سیر کرنا ایک دلچسپ تجربہ ہے"
+            ],
+            "synonyms": [
+                "بنی",
+                "وادی"
+            ],
+            "categories": [
+                "Nature",
+                "Environment"
+            ],
+            "tags": [
+                "forest",
+                "wildlife"
+            ],
+            "id": "1006"
+        },
+        {
+            "word": "علم",
+            "roman": "ilm",
+            "pronunciation": "ilm-doo",
+            "definitions": [
+                "Knowledge or learning",
+                "Understanding of a subject"
+            ],
+            "examples": [
+                "علم کی کوئی حد نہیں",
+                "علم انسان کی سب سے بڑی دولت ہے"
+            ],
+            "synonyms": [
+                "دانش",
+                "معرفت"
+            ],
+            "categories": [
+                "Education",
+                "Knowledge"
+            ],
+            "tags": [
+                "knowledge",
+                "learning"
+            ],
+            "id": "1007"
+        },
+        {
+            "word": "محبت",
+            "roman": "mohabbat",
+            "pronunciation": "mohabbat-doo",
+            "definitions": [
+                "A deep feeling of love and affection",
+                "The emotion of strong attachment"
+            ],
+            "examples": [
+                "محبت ایک خوبصورت احساس ہے",
+                "محبت کی کوئی زبان نہیں ہوتی"
+            ],
+            "synonyms": [
+                "پیار",
+                "عشق"
+            ],
+            "categories": [
+                "Emotion",
+                "Relationships"
+            ],
+            "tags": [
+                "love",
+                "affection"
+            ],
+            "id": "1008"
+        },
+        {
+            "word": "نور",
+            "roman": "noor",
+            "pronunciation": "noor-doo",
+            "definitions": [
+                "Light or brightness",
+                "Divine light or guidance"
+            ],
+            "examples": [
+                "سورج کا نور پوری دنیا کو روشن کرتا ہے",
+                "علم کا نور انسان کو منزل تک پہنچاتا ہے"
+            ],
+            "synonyms": [
+                "روشنی",
+                "اجالا"
+            ],
+            "categories": [
+                "Nature",
+                "Spirituality"
+            ],
+            "tags": [
+                "light",
+                "brightness"
+            ],
+            "id": "1009"
+        },
+        {
+            "word": "پھول",
+            "roman": "phool",
+            "pronunciation": "phool-doo",
+            "definitions": [
+                "The reproductive structure of a flowering plant",
+                "A beautiful and fragrant part of a plant"
+            ],
+            "examples": [
+                "باغ میں کئی طرح کے پھول کھلے ہیں",
+                "پھول کی خوشبو دل کو بھاتی ہے"
+            ],
+            "synonyms": [
+                "گل",
+                "شگوفہ"
+            ],
+            "categories": [
+                "Nature",
+                "Plants"
+            ],
+            "tags": [
+                "flower",
+                "beauty"
+            ],
+            "id": "1010"
+        }
+    ]
+}
