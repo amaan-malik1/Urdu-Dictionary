@@ -1,80 +1,72 @@
-import React, { createContext, useState, useContext, useEffect } from 'react';
+import React, { createContext, useContext, useState } from 'react';
 
-// Create the BookmarkContext
+// Context creation
 const BookmarkContext = createContext();
 
-// Custom hook to use BookmarkContext
+// Custom hook to use bookmarks
 export const useBookmarks = () => {
-  const context = useContext(BookmarkContext);
-  if (!context) {
-    throw new Error('useBookmarks must be used within a BookmarkProvider');
-  }
-  return context;
+  return useContext(BookmarkContext);
 };
 
-// BookmarkProvider Component
-export const BookmarkProvider = ({ children }) => {
-  // State to store bookmarked words
-  const [bookmarks, setBookmarks] = useState(() => {
-    // Initialize bookmarks from localStorage
-    const savedBookmarks = localStorage.getItem('urduDictionaryBookmarks');
-    return savedBookmarks ? JSON.parse(savedBookmarks) : [];
-  });
+const BookmarkProvider = ({ children }) => {
+  const [bookmarks, setBookmarks] = useState([]);
 
-  // Effect to save bookmarks to localStorage whenever they change
-  useEffect(() => {
-    localStorage.setItem('urduDictionaryBookmarks', JSON.stringify(bookmarks));
-  }, [bookmarks]);
-
-  // Function to add a bookmark
-  const addBookmark = (word) => {
-    // Prevent duplicate bookmarks
-    if (!bookmarks.some(bookmark => bookmark.id === word.id)) {
-      setBookmarks(prevBookmarks => [...prevBookmarks, word]);
-    }
+  // Add a bookmark
+  const addBookmark = (word, meaning, example) => {
+    const newBookmark = { id: Date.now(), word, meaning, example };
+    setBookmarks((prev) => [...prev, newBookmark]);
   };
 
-  // Function to remove a bookmark
-  const removeBookmark = (wordId) => {
-    setBookmarks(prevBookmarks => 
-      prevBookmarks.filter(bookmark => bookmark.id !== wordId)
-    );
+  // Remove a bookmark
+  const removeBookmark = (id) => {
+    setBookmarks((prev) => prev.filter((bookmark) => bookmark.id !== id));
   };
 
-  // Function to check if a word is bookmarked
-  const isBookmarked = (wordId) => {
-    return bookmarks.some(bookmark => bookmark.id === wordId);
-  };
-
-  // Function to toggle bookmark
-  const toggleBookmark = (word) => {
-    if (isBookmarked(word.id)) {
-      removeBookmark(word.id);
-    } else {
-      addBookmark(word);
-    }
-  };
-
-  // Function to clear all bookmarks
+  // Clear all bookmarks
   const clearBookmarks = () => {
     setBookmarks([]);
   };
 
-  // Context value with all bookmark-related functions
-  const value = {
-    bookmarks,
-    addBookmark,
-    removeBookmark,
-    isBookmarked,
-    toggleBookmark,
-    clearBookmarks
+  // Check if a word is bookmarked
+  const isBookmarked = (word) => {
+    return bookmarks.some((bookmark) => bookmark.word === word);
+  };
+
+  // Toggle bookmark: add or remove
+  const toggleBookmark = (wordObj) => {
+    if (isBookmarked(wordObj.word)) {
+      const bookmarkToRemove = bookmarks.find((bookmark) => bookmark.word === wordObj.word);
+      if (bookmarkToRemove) removeBookmark(bookmarkToRemove.id);
+    } else {
+      addBookmark(wordObj.word, wordObj.meaning, wordObj.example);
+    }
+  };
+
+  // Export bookmarks (Could be extended)
+  const exportBookmarks = () => {
+    const data = JSON.stringify(bookmarks);
+    const blob = new Blob([data], { type: 'application/json' });
+    const link = document.createElement('a');
+    link.href = URL.createObjectURL(blob);
+    link.download = 'bookmarks.json';
+    link.click();
   };
 
   return (
-    <BookmarkContext.Provider value={value}>
+    <BookmarkContext.Provider
+      value={{
+        bookmarks,
+        addBookmark,
+        removeBookmark,
+        clearBookmarks,  // <-- Added clearBookmarks here
+        toggleBookmark,
+        exportBookmarks,
+        isBookmarked
+      }}
+    >
       {children}
     </BookmarkContext.Provider>
   );
 };
 
-export default BookmarkContext;
+export default BookmarkProvider;

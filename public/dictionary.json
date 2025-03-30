@@ -24,7 +24,7 @@
                 "water",
                 "essential"
             ],
-            "id": "2001"
+            "id": "1"
         },
         {
             "word": "بادل",
@@ -50,7 +50,7 @@
                 "clouds",
                 "rain"
             ],
-            "id": "2002"
+            "id": "2"
         },
         {
             "word": "چاندنی",
@@ -76,7 +76,7 @@
                 "moonlight",
                 "beauty"
             ],
-            "id": "2003"
+            "id": "3"
         },
         {
             "word": "دوستی",
@@ -102,7 +102,7 @@
                 "friendship",
                 "bond"
             ],
-            "id": "2004"
+            "id": "4"
         },
         {
             "word": "امید",
@@ -128,7 +128,7 @@
                 "hope",
                 "expectation"
             ],
-            "id": "2005"
+            "id": "5"
         },
         {
             "word": "فکر",
@@ -154,7 +154,7 @@
                 "worry",
                 "anxiety"
             ],
-            "id": "2006"
+            "id": "6"
         },
         {
             "word": "گل",
@@ -180,7 +180,7 @@
                 "flower",
                 "beauty"
             ],
-            "id": "2007"
+            "id": "7"
         },
         {
             "word": "ہوا",
@@ -206,7 +206,7 @@
                 "air",
                 "wind"
             ],
-            "id": "2008"
+            "id": "8"
         },
         {
             "word": "عشق",
@@ -232,7 +232,7 @@
                 "love",
                 "passion"
             ],
-            "id": "2009"
+            "id": "9"
         },
         {
             "word": "جگنو",
@@ -258,7 +258,7 @@
                 "firefly",
                 "glow"
             ],
-            "id": "2010"
+            "id": "10"
         },
         {
             "word": "کتاب",
@@ -284,7 +284,7 @@
                 "book",
                 "reading"
             ],
-            "id": "2121"
+            "id": "11"
         },
         {
             "word": "لڑکی",
@@ -310,7 +310,7 @@
                 "girl",
                 "child"
             ],
-            "id": "2051"
+            "id": "12"
         },
         {
             "word": "مکان",
@@ -336,7 +336,7 @@
                 "house",
                 "home"
             ],
-            "id": "2052"
+            "id": "13"
         },
         {
             "word": "نور",
@@ -362,7 +362,7 @@
                 "light",
                 "brightness"
             ],
-            "id": "2141"
+            "id": "14"
         },
         {
             "word": "پھول",
@@ -388,7 +388,7 @@
                 "flower",
                 "beauty"
             ],
-            "id": "2054"
+            "id": "15"
         },
         {
             "word": "قلم",
@@ -414,7 +414,7 @@
                 "pen",
                 "writing"
             ],
-            "id": "2126"
+            "id": "16"
         },
         {
             "word": "رات",
@@ -440,7 +440,7 @@
                 "night",
                 "darkness"
             ],
-            "id": "2127"
+            "id": "17"
         },
         {
             "word": "سورج",
@@ -466,7 +466,7 @@
                 "sun",
                 "solar"
             ],
-            "id": "2128"
+            "id": "18"
         },
         {
             "word": "تارا",
@@ -492,7 +492,7 @@
                 "star",
                 "night"
             ],
-            "id": "2201"
+            "id": "19"
         },
         {
             "word": "عمر",
@@ -518,7 +518,7 @@
                 "age",
                 "life"
             ],
-            "id": "2202"
+            "id": "20"
         },
         {
             "word": "علم",
@@ -544,7 +544,7 @@
                 "knowledge",
                 "learning"
             ],
-            "id": "2203"
+            "id": "21"
         },
         {
             "word": "زندگی",
@@ -570,7 +570,7 @@
                 "life",
                 "existence"
             ],
-            "id": "2204"
+            "id": "22"
         },
         {
             "word": "آسمان",
@@ -596,7 +596,7 @@
                 "sky",
                 "heaven"
             ],
-            "id": "2205"
+            "id": "23"
         },
         {
             "word": "باغ",
@@ -622,7 +622,7 @@
                 "garden",
                 "park"
             ],
-            "id": "2206"
+            "id": "24"
         },
         {
             "word": "چاند",
@@ -648,7 +648,7 @@
                 "moon",
                 "night"
             ],
-            "id": "2207"
+            "id": "25"
         },
         {
             "word": "دل",
@@ -674,7 +674,7 @@
                 "heart",
                 "emotion"
             ],
-            "id": "2208"
+            "id": "26"
         },
         {
             "word": "انسان",
@@ -700,7 +700,7 @@
                 "human",
                 "person"
             ],
-            "id": "2209"
+            "id": "27"
         },
         {
             "word": "جنگل",
@@ -726,7 +726,7 @@
                 "forest",
                 "jungle"
             ],
-            "id": "2210"
+            "id": "28"
         },
         {
             "word": "خوشی",
@@ -752,7 +752,7 @@
                 "happiness",
                 "joy"
             ],
-            "id": "2211"
+            "id": "29"
         },
         {
             "word": "محبت",
@@ -778,7 +778,7 @@
                 "love",
                 "affection"
             ],
-            "id": "2212"
+            "id": "30"
         },
         {
             "word": "پانی",
@@ -804,7 +804,7 @@
                 "water",
                 "liquid"
             ],
-            "id": "2214"
+            "id": "31"
         },
         {
             "word": "قدرت",
@@ -830,7 +830,7 @@
                 "nature",
                 "power"
             ],
-            "id": "2215"
+            "id": "32"
         },
         {
             "word": "رنگ",
@@ -856,7 +856,7 @@
                 "color",
                 "hue"
             ],
-            "id": "2216"
+            "id": "33"
         },
         {
             "word": "سکون",
@@ -882,7 +882,7 @@
                 "peace",
                 "tranquility"
             ],
-            "id": "2241"
+            "id": "34"
         },
         {
             "word": "تاج",
@@ -908,7 +908,7 @@
                 "crown",
                 "royalty"
             ],
-            "id": "2242"
+            "id": "35"
         },
         {
             "word": "وطن",
@@ -934,7 +934,7 @@
                 "homeland",
                 "country"
             ],
-            "id": "2243"
+            "id": "36"
         },
         {
             "word": "یادگار",
@@ -960,7 +960,7 @@
                 "memorial",
                 "memory"
             ],
-            "id": "2244"
+            "id": "37"
         },
         {
             "word": "زبان",
@@ -986,7 +986,7 @@
                 "language",
                 "speech"
             ],
-            "id": "2245"
+            "id": "38"
         },
         {
             "word": "آنکھ",
@@ -1012,7 +1012,7 @@
                 "eye",
                 "vision"
             ],
-            "id": "2246"
+            "id": "39"
         },
         {
             "word": "برف",
@@ -1038,7 +1038,7 @@
                 "ice",
                 "snow"
             ],
-            "id": "2247"
+            "id": "40"
         },
         {
             "word": "فطرت",
@@ -1064,7 +1064,7 @@
                 "nature",
                 "character"
             ],
-            "id": "2248"
+            "id": "41"
         },
         {
             "word": "گھاس",
@@ -1090,7 +1090,7 @@
                 "grass",
                 "lawn"
             ],
-            "id": "2249"
+            "id": "42"
         },
         {
             "word": "ہوا",
@@ -1116,7 +1116,7 @@
                 "air",
                 "wind"
             ],
-            "id": "2250"
+            "id": "43"
         },
         {
             "word": "اجالا",
@@ -1142,7 +1142,7 @@
                 "light",
                 "dawn"
             ],
-            "id": "2251"
+            "id": "44"
         },
         {
             "word": "جنگل",
@@ -1168,7 +1168,7 @@
                 "forest",
                 "jungle"
             ],
-            "id": "2252"
+            "id": "45"
         },
         {
             "word": "کتاب",
@@ -1194,7 +1194,7 @@
                 "book",
                 "reading"
             ],
-            "id": "2253"
+            "id": "46"
         },
         {
             "word": "لکیر",
@@ -1220,7 +1220,7 @@
                 "line",
                 "mark"
             ],
-            "id": "2254"
+            "id": "47"
         },
         {
             "word": "مہینہ",
@@ -1246,7 +1246,7 @@
                 "month",
                 "time"
             ],
-            "id": "2255"
+            "id": "48"
         },
         {
             "word": "نظر",
@@ -1272,7 +1272,7 @@
                 "sight",
                 "vision"
             ],
-            "id": "2256"
+            "id": "49"
         },
         {
             "word": "پرندہ",
@@ -1298,7 +1298,7 @@
                 "bird",
                 "flying"
             ],
-            "id": "2257"
+            "id": "50"
         },
         {
             "word": "قلم",
@@ -1324,7 +1324,7 @@
                 "pen",
                 "writing"
             ],
-            "id": "2258"
+            "id": "51"
         },
         {
             "word": "رات",
@@ -1350,7 +1350,7 @@
                 "night",
                 "darkness"
             ],
-            "id": "2259"
+            "id": "52"
         },
         {
             "word": "سورج",
@@ -1376,7 +1376,7 @@
                 "sun",
                 "solar"
             ],
-            "id": "2260"
+            "id": "53"
         },
         {
             "word": "یاد",
@@ -1402,7 +1402,7 @@
                 "memory",
                 "remembrance"
             ],
-            "id": "2261"
+            "id": "54"
         },
         {
             "word": "زمانہ",
@@ -1428,7 +1428,7 @@
                 "era",
                 "period"
             ],
-            "id": "2262"
+            "id": "55"
         },
         {
             "word": "آرام",
@@ -1454,7 +1454,7 @@
                 "rest",
                 "comfort"
             ],
-            "id": "2263"
+            "id": "56"
         },
         {
             "word": "بہار",
@@ -1480,7 +1480,7 @@
                 "spring",
                 "season"
             ],
-            "id": "2264"
+            "id": "57"
         },
         {
             "word": "چراغ",
@@ -1506,7 +1506,7 @@
                 "lamp",
                 "light"
             ],
-            "id": "2265"
+            "id": "58"
         },
         {
             "word": "درخت",
@@ -1532,7 +1532,7 @@
                 "tree",
                 "plant"
             ],
-            "id": "2266"
+            "id": "59"
         },
         {
             "word": "عید",
@@ -1558,7 +1558,7 @@
                 "festival",
                 "celebration"
             ],
-            "id": "2267"
+            "id": "60"
         },
         {
             "word": "فرشتہ",
@@ -1584,7 +1584,7 @@
                 "angel",
                 "divine"
             ],
-            "id": "2268"
+            "id": "61"
         },
         {
             "word": "گھر",
@@ -1610,7 +1610,7 @@
                 "home",
                 "residence"
             ],
-            "id": "2269"
+            "id": "62"
         },
         {
             "word": "حکمت",
@@ -1636,7 +1636,7 @@
                 "wisdom",
                 "insight"
             ],
-            "id": "2270"
+            "id": "63"
         },
         {
             "word": "اتفاق",
@@ -1662,7 +1662,7 @@
                 "coincidence",
                 "unity"
             ],
-            "id": "2271"
+            "id": "64"
         },
         {
             "word": "جنت",
@@ -1688,7 +1688,7 @@
                 "paradise",
                 "heaven"
             ],
-            "id": "2272"
+            "id": "65"
         },
         {
             "word": "کائنات",
@@ -1714,7 +1714,7 @@
                 "universe",
                 "cosmos"
             ],
-            "id": "2273"
+            "id": "66"
         },
         {
             "word": "لطیفہ",
@@ -1740,7 +1740,7 @@
                 "joke",
                 "humor"
             ],
-            "id": "2274"
+            "id": "67"
         },
         {
             "word": "مسجد",
@@ -1766,7 +1766,7 @@
                 "mosque",
                 "worship"
             ],
-            "id": "2275"
+            "id": "68"
         },
         {
             "word": "نغمہ",
@@ -1792,7 +1792,7 @@
                 "song",
                 "melody"
             ],
-            "id": "2276"
+            "id": "69"
         },
         {
             "word": "عود",
@@ -1818,7 +1818,7 @@
                 "incense",
                 "aroma"
             ],
-            "id": "2277"
+            "id": "70"
         },
         {
             "word": "پروانہ",
@@ -1844,7 +1844,7 @@
                 "moth",
                 "devotion"
             ],
-            "id": "2278"
+            "id": "71"
         },
         {
             "word": "قسمت",
@@ -1870,7 +1870,7 @@
                 "fate",
                 "destiny"
             ],
-            "id": "2279"
+            "id": "72"
         },
         {
             "word": "روشنی",
@@ -1896,7 +1896,2555 @@
                 "light",
                 "brightness"
             ],
-            "id": "2280"
+            "id": "73"
+        },
+        {
+            "word": "سکھ",
+            "roman": "sukh",
+            "pronunciation": "sukh-doo",
+            "definitions": [
+                "Happiness",
+                "Peace"
+            ],
+            "examples": [
+                "سکھ کی دنیا",
+                "سکھ کی زندگی"
+            ],
+            "synonyms": [
+                "خوشی",
+                "آرام"
+            ],
+            "categories": [
+                "Emotions",
+                "Psychology"
+            ],
+            "tags": [
+                "happiness",
+                "peace"
+            ],
+            "id": "74"
+        },
+        {
+            "word": "تاج",
+            "roman": "taaj",
+            "pronunciation": "taaj-doo",
+            "definitions": [
+                "Crown",
+                "Royal headwear"
+            ],
+            "examples": [
+                "تاج کی دنیا",
+                "تاج کی زندگی"
+            ],
+            "synonyms": [
+                "مکٹ",
+                "سر تاج"
+            ],
+            "categories": [
+                "Royalty",
+                "Accessories"
+            ],
+            "tags": [
+                "crown",
+                "royalty"
+            ],
+            "id": "75"
+        },
+        {
+            "word": "عالم",
+            "roman": "aalim",
+            "pronunciation": "aalim-doo",
+            "definitions": [
+                "Scholar",
+                "Learned person"
+            ],
+            "examples": [
+                "عالم کی دنیا",
+                "عالم کی زندگی"
+            ],
+            "synonyms": [
+                "دانشور",
+                "فاضل"
+            ],
+            "categories": [
+                "Education",
+                "Knowledge"
+            ],
+            "tags": [
+                "scholar",
+                "learned"
+            ],
+            "id": "76"
+        },
+        {
+            "word": "بہشت",
+            "roman": "bahisht",
+            "pronunciation": "bahisht-doo",
+            "definitions": [
+                "Paradise",
+                "Heaven"
+            ],
+            "examples": [
+                "بہشت کی دنیا",
+                "بہشت کی زندگی"
+            ],
+            "synonyms": [
+                "جنت",
+                "فردوس"
+            ],
+            "categories": [
+                "Religion",
+                "Spirituality"
+            ],
+            "tags": [
+                "paradise",
+                "heaven"
+            ],
+            "id": "77"
+        },
+        {
+            "word": "چاند",
+            "roman": "chaand",
+            "pronunciation": "chaand-doo",
+            "definitions": [
+                "Moon",
+                "Lunar body"
+            ],
+            "examples": [
+                "چاند کی دنیا",
+                "چاند کی زندگی"
+            ],
+            "synonyms": [
+                "ماہ",
+                "قمر"
+            ],
+            "categories": [
+                "Space",
+                "Nature"
+            ],
+            "tags": [
+                "moon",
+                "night"
+            ],
+            "id": "78"
+        },
+        {
+            "word": "دل",
+            "roman": "dil",
+            "pronunciation": "dil-doo",
+            "definitions": [
+                "Heart",
+                "Emotion"
+            ],
+            "examples": [
+                "دل کی دنیا",
+                "دل کی زندگی"
+            ],
+            "synonyms": [
+                "قلب",
+                "دھڑکن"
+            ],
+            "categories": [
+                "Body",
+                "Emotions"
+            ],
+            "tags": [
+                "heart",
+                "emotion"
+            ],
+            "id": "79"
+        },
+        {
+            "word": "انسان",
+            "roman": "insaan",
+            "pronunciation": "insaan-doo",
+            "definitions": [
+                "Human",
+                "Person"
+            ],
+            "examples": [
+                "انسان کی دنیا",
+                "انسان کی زندگی"
+            ],
+            "synonyms": [
+                "بشر",
+                "آدمی"
+            ],
+            "categories": [
+                "Human",
+                "Life"
+            ],
+            "tags": [
+                "human",
+                "person"
+            ],
+            "id": "80"
+        },
+        {
+            "word": "جنگل",
+            "roman": "jangal",
+            "pronunciation": "jangal-doo",
+            "definitions": [
+                "Forest",
+                "Jungle"
+            ],
+            "examples": [
+                "جنگل کی دنیا",
+                "جنگل کی زندگی"
+            ],
+            "synonyms": [
+                "بن",
+                "وادی"
+            ],
+            "categories": [
+                "Nature",
+                "Places"
+            ],
+            "tags": [
+                "forest",
+                "jungle"
+            ],
+            "id": "81"
+        },
+        {
+            "word": "خوشی",
+            "roman": "khushi",
+            "pronunciation": "khushi-doo",
+            "definitions": [
+                "Happiness",
+                "Joy"
+            ],
+            "examples": [
+                "خوشی کی دنیا",
+                "خوشی کی زندگی"
+            ],
+            "synonyms": [
+                "مسرت",
+                "شادمانی"
+            ],
+            "categories": [
+                "Emotions",
+                "Psychology"
+            ],
+            "tags": [
+                "happiness",
+                "joy"
+            ],
+            "id": "82"
+        },
+        {
+            "word": "محبت",
+            "roman": "mohabbat",
+            "pronunciation": "mohabbat-doo",
+            "definitions": [
+                "Love",
+                "Affection"
+            ],
+            "examples": [
+                "محبت کی دنیا",
+                "محبت کی زندگی"
+            ],
+            "synonyms": [
+                "پیار",
+                "عشق"
+            ],
+            "categories": [
+                "Emotions",
+                "Relationships"
+            ],
+            "tags": [
+                "love",
+                "affection"
+            ],
+            "id": "83"
+        },
+        {
+            "word": "پانی",
+            "roman": "paani",
+            "pronunciation": "paani-doo",
+            "definitions": [
+                "Water",
+                "Liquid"
+            ],
+            "examples": [
+                "پانی کی دنیا",
+                "پانی کی زندگی"
+            ],
+            "synonyms": [
+                "آب",
+                "ماء"
+            ],
+            "categories": [
+                "Nature",
+                "Elements"
+            ],
+            "tags": [
+                "water",
+                "liquid"
+            ],
+            "id": "84"
+        },
+        {
+            "word": "قدرت",
+            "roman": "qudrat",
+            "pronunciation": "qudrat-doo",
+            "definitions": [
+                "Nature",
+                "Power"
+            ],
+            "examples": [
+                "قدرت کی دنیا",
+                "قدرت کی زندگی"
+            ],
+            "synonyms": [
+                "فطرت",
+                "طاقت"
+            ],
+            "categories": [
+                "Nature",
+                "Philosophy"
+            ],
+            "tags": [
+                "nature",
+                "power"
+            ],
+            "id": "85"
+        },
+        {
+            "word": "رنگ",
+            "roman": "rang",
+            "pronunciation": "rang-doo",
+            "definitions": [
+                "Color",
+                "Hue"
+            ],
+            "examples": [
+                "رنگ کی دنیا",
+                "رنگ کی زندگی"
+            ],
+            "synonyms": [
+                "رنگت",
+                "لون"
+            ],
+            "categories": [
+                "Art",
+                "Visual"
+            ],
+            "tags": [
+                "color",
+                "hue"
+            ],
+            "id": "86"
+        },
+        {
+            "word": "سکون",
+            "roman": "sukoon",
+            "pronunciation": "sukoon-doo",
+            "definitions": [
+                "Peace",
+                "Tranquility"
+            ],
+            "examples": [
+                "سکون کی دنیا",
+                "سکون کی زندگی"
+            ],
+            "synonyms": [
+                "آرام",
+                "اطمینان"
+            ],
+            "categories": [
+                "Emotions",
+                "Psychology"
+            ],
+            "tags": [
+                "peace",
+                "tranquility"
+            ],
+            "id": "87"
+        },
+        {
+            "word": "تاج",
+            "roman": "taaj",
+            "pronunciation": "taaj-doo",
+            "definitions": [
+                "Crown",
+                "Royal headwear"
+            ],
+            "examples": [
+                "تاج کی دنیا",
+                "تاج کی زندگی"
+            ],
+            "synonyms": [
+                "مکٹ",
+                "سر تاج"
+            ],
+            "categories": [
+                "Royalty",
+                "Accessories"
+            ],
+            "tags": [
+                "crown",
+                "royalty"
+            ],
+            "id": "88"
+        },
+        {
+            "word": "وطن",
+            "roman": "watan",
+            "pronunciation": "watan-doo",
+            "definitions": [
+                "Homeland",
+                "Country"
+            ],
+            "examples": [
+                "وطن کی دنیا",
+                "وطن کی زندگی"
+            ],
+            "synonyms": [
+                "ملک",
+                "دیش"
+            ],
+            "categories": [
+                "Geography",
+                "Politics"
+            ],
+            "tags": [
+                "homeland",
+                "country"
+            ],
+            "id": "89"
+        },
+        {
+            "word": "یادگار",
+            "roman": "yaadgar",
+            "pronunciation": "yaadgar-doo",
+            "definitions": [
+                "Memorial",
+                "Souvenir"
+            ],
+            "examples": [
+                "یادگار لمحات",
+                "یادگار کی دنیا"
+            ],
+            "synonyms": [
+                "نشانی",
+                "یاد"
+            ],
+            "categories": [
+                "Memory",
+                "History"
+            ],
+            "tags": [
+                "memorial",
+                "memory"
+            ],
+            "id": "90"
+        },
+        {
+            "word": "زبان",
+            "roman": "zabaan",
+            "pronunciation": "zabaan-doo",
+            "definitions": [
+                "Language",
+                "Tongue"
+            ],
+            "examples": [
+                "زبان کی دنیا",
+                "زبان کی زندگی"
+            ],
+            "synonyms": [
+                "لسان",
+                "بولی"
+            ],
+            "categories": [
+                "Language",
+                "Communication"
+            ],
+            "tags": [
+                "language",
+                "speech"
+            ],
+            "id": "91"
+        },
+        {
+            "word": "آنکھ",
+            "roman": "aankh",
+            "pronunciation": "aankh-doo",
+            "definitions": [
+                "Eye",
+                "Vision"
+            ],
+            "examples": [
+                "آنکھوں میں آنسو",
+                "آنکھ کی دنیا"
+            ],
+            "synonyms": [
+                "نین",
+                "چشم"
+            ],
+            "categories": [
+                "Body",
+                "Anatomy"
+            ],
+            "tags": [
+                "eye",
+                "vision"
+            ],
+            "id": "92"
+        },
+        {
+            "word": "برف",
+            "roman": "baraf",
+            "pronunciation": "baraf-doo",
+            "definitions": [
+                "Ice",
+                "Snow"
+            ],
+            "examples": [
+                "برف کی چادر",
+                "برف کی دنیا"
+            ],
+            "synonyms": [
+                "یخ",
+                "ثلج"
+            ],
+            "categories": [
+                "Nature",
+                "Weather"
+            ],
+            "tags": [
+                "ice",
+                "snow"
+            ],
+            "id": "93"
+        },
+        {
+            "word": "فطرت",
+            "roman": "fitrat",
+            "pronunciation": "fitrat-doo",
+            "definitions": [
+                "Nature",
+                "Disposition"
+            ],
+            "examples": [
+                "فطرت کی دنیا",
+                "فطرت کی زندگی"
+            ],
+            "synonyms": [
+                "قدرت",
+                "سرشت"
+            ],
+            "categories": [
+                "Nature",
+                "Philosophy"
+            ],
+            "tags": [
+                "nature",
+                "character"
+            ],
+            "id": "94"
+        },
+        {
+            "word": "گھاس",
+            "roman": "ghaas",
+            "pronunciation": "ghaas-doo",
+            "definitions": [
+                "Grass",
+                "Lawn"
+            ],
+            "examples": [
+                "گھاس کی دنیا",
+                "گھاس کی زندگی"
+            ],
+            "synonyms": [
+                "سبزہ",
+                "چمن"
+            ],
+            "categories": [
+                "Nature",
+                "Plants"
+            ],
+            "tags": [
+                "grass",
+                "lawn"
+            ],
+            "id": "95"
+        },
+        {
+            "word": "ہوا",
+            "roman": "hawa",
+            "pronunciation": "hawa-doo",
+            "definitions": [
+                "Air",
+                "Wind"
+            ],
+            "examples": [
+                "ہوا کی دنیا",
+                "ہوا کی زندگی"
+            ],
+            "synonyms": [
+                "باد",
+                "نسیم"
+            ],
+            "categories": [
+                "Nature",
+                "Weather"
+            ],
+            "tags": [
+                "air",
+                "wind"
+            ],
+            "id": "96"
+        },
+        {
+            "word": "اجالا",
+            "roman": "ujala",
+            "pronunciation": "ujala-doo",
+            "definitions": [
+                "Light",
+                "Brightness"
+            ],
+            "examples": [
+                "اجالے کی دنیا",
+                "اجالے کی زندگی"
+            ],
+            "synonyms": [
+                "روشنی",
+                "نور"
+            ],
+            "categories": [
+                "Nature",
+                "Time"
+            ],
+            "tags": [
+                "light",
+                "dawn"
+            ],
+            "id": "97"
+        },
+        {
+            "word": "جنگل",
+            "roman": "jangal",
+            "pronunciation": "jangal-doo",
+            "definitions": [
+                "Forest",
+                "Jungle"
+            ],
+            "examples": [
+                "جنگل کی دنیا",
+                "جنگل کی زندگی"
+            ],
+            "synonyms": [
+                "بن",
+                "وادی"
+            ],
+            "categories": [
+                "Nature",
+                "Places"
+            ],
+            "tags": [
+                "forest",
+                "jungle"
+            ],
+            "id": "98"
+        },
+        {
+            "word": "کتاب",
+            "roman": "kitaab",
+            "pronunciation": "kitaab-doo",
+            "definitions": [
+                "Book",
+                "Volume"
+            ],
+            "examples": [
+                "کتاب کی دنیا",
+                "کتاب کی زندگی"
+            ],
+            "synonyms": [
+                "پستک",
+                "نسخہ"
+            ],
+            "categories": [
+                "Education",
+                "Literature"
+            ],
+            "tags": [
+                "book",
+                "reading"
+            ],
+            "id": "99"
+        },
+        {
+            "word": "لکیر",
+            "roman": "lakeer",
+            "pronunciation": "lakeer-doo",
+            "definitions": [
+                "Line",
+                "Streak"
+            ],
+            "examples": [
+                "لکیر کی دنیا",
+                "لکیر کی زندگی"
+            ],
+            "synonyms": [
+                "خط",
+                "ریکھا"
+            ],
+            "categories": [
+                "Art",
+                "Shapes"
+            ],
+            "tags": [
+                "line",
+                "mark"
+            ],
+            "id": "100"
+        },
+        {
+            "word": "مہینہ",
+            "roman": "maheena",
+            "pronunciation": "maheena-doo",
+            "definitions": [
+                "Month",
+                "Lunar month"
+            ],
+            "examples": [
+                "مہینے کی دنیا",
+                "مہینے کی زندگی"
+            ],
+            "synonyms": [
+                "ماہ",
+                "مہینا"
+            ],
+            "categories": [
+                "Time",
+                "Calendar"
+            ],
+            "tags": [
+                "month",
+                "time"
+            ],
+            "id": "101"
+        },
+        {
+            "word": "نظر",
+            "roman": "nazar",
+            "pronunciation": "nazar-doo",
+            "definitions": [
+                "Sight",
+                "Vision"
+            ],
+            "examples": [
+                "نظر کی دنیا",
+                "نظر کی زندگی"
+            ],
+            "synonyms": [
+                "دید",
+                "بصارت"
+            ],
+            "categories": [
+                "Senses",
+                "Perception"
+            ],
+            "tags": [
+                "sight",
+                "vision"
+            ],
+            "id": "102"
+        },
+        {
+            "word": "پرندہ",
+            "roman": "parinda",
+            "pronunciation": "parinda-doo",
+            "definitions": [
+                "Bird",
+                "Flying creature"
+            ],
+            "examples": [
+                "پرندے کی دنیا",
+                "پرندے کی زندگی"
+            ],
+            "synonyms": [
+                "طائر",
+                "پکھیرو"
+            ],
+            "categories": [
+                "Animals",
+                "Nature"
+            ],
+            "tags": [
+                "bird",
+                "flying"
+            ],
+            "id": "103"
+        },
+        {
+            "word": "قلم",
+            "roman": "qalam",
+            "pronunciation": "qalam-doo",
+            "definitions": [
+                "Pen",
+                "Writing instrument"
+            ],
+            "examples": [
+                "قلم کی دنیا",
+                "قلم کی زندگی"
+            ],
+            "synonyms": [
+                "خامہ",
+                "کلک"
+            ],
+            "categories": [
+                "Education",
+                "Tools"
+            ],
+            "tags": [
+                "pen",
+                "writing"
+            ],
+            "id": "104"
+        },
+        {
+            "word": "رات",
+            "roman": "raat",
+            "pronunciation": "raat-doo",
+            "definitions": [
+                "Night",
+                "Evening"
+            ],
+            "examples": [
+                "رات کی دنیا",
+                "رات کی زندگی"
+            ],
+            "synonyms": [
+                "شب",
+                "لیل"
+            ],
+            "categories": [
+                "Time",
+                "Nature"
+            ],
+            "tags": [
+                "night",
+                "darkness"
+            ],
+            "id": "105"
+        },
+        {
+            "word": "سورج",
+            "roman": "suraj",
+            "pronunciation": "suraj-doo",
+            "definitions": [
+                "Sun",
+                "Solar body"
+            ],
+            "examples": [
+                "سورج کی دنیا",
+                "سورج کی زندگی"
+            ],
+            "synonyms": [
+                "شمس",
+                "آفتاب"
+            ],
+            "categories": [
+                "Space",
+                "Nature"
+            ],
+            "tags": [
+                "sun",
+                "solar"
+            ],
+            "id": "106"
+        },
+        {
+            "word": "یاد",
+            "roman": "yaad",
+            "pronunciation": "yaad-doo",
+            "definitions": [
+                "Memory",
+                "Remembrance"
+            ],
+            "examples": [
+                "یاد کی دنیا",
+                "یاد کی زندگی"
+            ],
+            "synonyms": [
+                "حافظہ",
+                "ذکر"
+            ],
+            "categories": [
+                "Psychology",
+                "Memory"
+            ],
+            "tags": [
+                "memory",
+                "remembrance"
+            ],
+            "id": "107"
+        },
+        {
+            "word": "زمانہ",
+            "roman": "zamana",
+            "pronunciation": "zamana-doo",
+            "definitions": [
+                "Era",
+                "Period"
+            ],
+            "examples": [
+                "زمانے کی دنیا",
+                "زمانے کی زندگی"
+            ],
+            "synonyms": [
+                "دور",
+                "عہد"
+            ],
+            "categories": [
+                "Time",
+                "History"
+            ],
+            "tags": [
+                "era",
+                "period"
+            ],
+            "id": "108"
+        },
+        {
+            "word": "آرام",
+            "roman": "aaram",
+            "pronunciation": "aaram-doo",
+            "definitions": [
+                "Rest",
+                "Comfort"
+            ],
+            "examples": [
+                "آرام کی دنیا",
+                "آرام کی زندگی"
+            ],
+            "synonyms": [
+                "سکون",
+                "راحت"
+            ],
+            "categories": [
+                "Health",
+                "Comfort"
+            ],
+            "tags": [
+                "rest",
+                "comfort"
+            ],
+            "id": "109"
+        },
+        {
+            "word": "بہار",
+            "roman": "bahar",
+            "pronunciation": "bahar-doo",
+            "definitions": [
+                "Spring",
+                "Season"
+            ],
+            "examples": [
+                "بہار کی دنیا",
+                "بہار کی زندگی"
+            ],
+            "synonyms": [
+                "موسم بہار",
+                "بہار کا موسم"
+            ],
+            "categories": [
+                "Nature",
+                "Seasons"
+            ],
+            "tags": [
+                "spring",
+                "season"
+            ],
+            "id": "110"
+        },
+        {
+            "word": "چراغ",
+            "roman": "chiragh",
+            "pronunciation": "chiragh-doo",
+            "definitions": [
+                "Lamp",
+                "Light"
+            ],
+            "examples": [
+                "چراغ کی دنیا",
+                "چراغ کی زندگی"
+            ],
+            "synonyms": [
+                "دیا",
+                "بتی"
+            ],
+            "categories": [
+                "Objects",
+                "Light"
+            ],
+            "tags": [
+                "lamp",
+                "light"
+            ],
+            "id": "111"
+        },
+        {
+            "word": "درخت",
+            "roman": "darakht",
+            "pronunciation": "darakht-doo",
+            "definitions": [
+                "Tree",
+                "Plant"
+            ],
+            "examples": [
+                "درخت کی دنیا",
+                "درخت کی زندگی"
+            ],
+            "synonyms": [
+                "شجر",
+                "پیڑ"
+            ],
+            "categories": [
+                "Nature",
+                "Plants"
+            ],
+            "tags": [
+                "tree",
+                "plant"
+            ],
+            "id": "112"
+        },
+        {
+            "word": "عید",
+            "roman": "eid",
+            "pronunciation": "eid-doo",
+            "definitions": [
+                "Festival",
+                "Celebration"
+            ],
+            "examples": [
+                "عید کی دنیا",
+                "عید کی زندگی"
+            ],
+            "synonyms": [
+                "تہوار",
+                "جشن"
+            ],
+            "categories": [
+                "Religion",
+                "Celebration"
+            ],
+            "tags": [
+                "festival",
+                "celebration"
+            ],
+            "id": "113"
+        },
+        {
+            "word": "فرشتہ",
+            "roman": "farishta",
+            "pronunciation": "farishta-doo",
+            "definitions": [
+                "Angel",
+                "Divine messenger"
+            ],
+            "examples": [
+                "فرشتے کی دنیا",
+                "فرشتے کی زندگی"
+            ],
+            "synonyms": [
+                "ملک",
+                "ملائک"
+            ],
+            "categories": [
+                "Religion",
+                "Spirituality"
+            ],
+            "tags": [
+                "angel",
+                "divine"
+            ],
+            "id": "114"
+        },
+        {
+            "word": "گھر",
+            "roman": "ghar",
+            "pronunciation": "ghar-doo",
+            "definitions": [
+                "Home",
+                "Residence"
+            ],
+            "examples": [
+                "گھر کی دنیا",
+                "گھر کی زندگی"
+            ],
+            "synonyms": [
+                "مکان",
+                "آشیانہ"
+            ],
+            "categories": [
+                "Building",
+                "Family"
+            ],
+            "tags": [
+                "home",
+                "residence"
+            ],
+            "id": "115"
+        },
+        {
+            "word": "حکمت",
+            "roman": "hikmat",
+            "pronunciation": "hikmat-doo",
+            "definitions": [
+                "Wisdom",
+                "Insight"
+            ],
+            "examples": [
+                "حکمت کی دنیا",
+                "حکمت کی زندگی"
+            ],
+            "synonyms": [
+                "دانائی",
+                "عقل"
+            ],
+            "categories": [
+                "Knowledge",
+                "Philosophy"
+            ],
+            "tags": [
+                "wisdom",
+                "insight"
+            ],
+            "id": "116"
+        },
+        {
+            "word": "اتفاق",
+            "roman": "ittefaq",
+            "pronunciation": "ittefaq-doo",
+            "definitions": [
+                "Coincidence",
+                "Unity"
+            ],
+            "examples": [
+                "اتفاق کی دنیا",
+                "اتفاق کی زندگی"
+            ],
+            "synonyms": [
+                "میل",
+                "یکجہتی"
+            ],
+            "categories": [
+                "Events",
+                "Social"
+            ],
+            "tags": [
+                "coincidence",
+                "unity"
+            ],
+            "id": "117"
+        },
+        {
+            "word": "جنت",
+            "roman": "jannat",
+            "pronunciation": "jannat-doo",
+            "definitions": [
+                "Paradise",
+                "Heaven"
+            ],
+            "examples": [
+                "جنت کی دنیا",
+                "جنت کی زندگی"
+            ],
+            "synonyms": [
+                "فردوس",
+                "بہشت"
+            ],
+            "categories": [
+                "Religion",
+                "Spirituality"
+            ],
+            "tags": [
+                "paradise",
+                "heaven"
+            ],
+            "id": "118"
+        },
+        {
+            "word": "کائنات",
+            "roman": "kainaat",
+            "pronunciation": "kainaat-doo",
+            "definitions": [
+                "Universe",
+                "Cosmos"
+            ],
+            "examples": [
+                "کائنات کی دنیا",
+                "کائنات کی زندگی"
+            ],
+            "synonyms": [
+                "عالم",
+                "جہاں"
+            ],
+            "categories": [
+                "Science",
+                "Space"
+            ],
+            "tags": [
+                "universe",
+                "cosmos"
+            ],
+            "id": "119"
+        },
+        {
+            "word": "لطیفہ",
+            "roman": "latifa",
+            "pronunciation": "latifa-doo",
+            "definitions": [
+                "Joke",
+                "Humor"
+            ],
+            "examples": [
+                "لطیفہ کی دنیا",
+                "لطیفہ کی زندگی"
+            ],
+            "synonyms": [
+                "مذاق",
+                "چٹکلا"
+            ],
+            "categories": [
+                "Entertainment",
+                "Humor"
+            ],
+            "tags": [
+                "joke",
+                "humor"
+            ],
+            "id": "120"
+        },
+        {
+            "word": "مسجد",
+            "roman": "masjid",
+            "pronunciation": "masjid-doo",
+            "definitions": [
+                "Mosque",
+                "Worship place"
+            ],
+            "examples": [
+                "مسجد کی دنیا",
+                "مسجد کی زندگی"
+            ],
+            "synonyms": [
+                "جامع",
+                "مسیت"
+            ],
+            "categories": [
+                "Religion",
+                "Architecture"
+            ],
+            "tags": [
+                "mosque",
+                "worship"
+            ],
+            "id": "121"
+        },
+        {
+            "word": "نغمہ",
+            "roman": "naghma",
+            "pronunciation": "naghma-doo",
+            "definitions": [
+                "Song",
+                "Melody"
+            ],
+            "examples": [
+                "نغمہ کی دنیا",
+                "نغمہ کی زندگی"
+            ],
+            "synonyms": [
+                "گیت",
+                "ترانہ"
+            ],
+            "categories": [
+                "Music",
+                "Art"
+            ],
+            "tags": [
+                "song",
+                "melody"
+            ],
+            "id": "122"
+        },
+        {
+            "word": "عود",
+            "roman": "oud",
+            "pronunciation": "oud-doo",
+            "definitions": [
+                "Incense",
+                "Fragrance"
+            ],
+            "examples": [
+                "عود کی دنیا",
+                "عود کی زندگی"
+            ],
+            "synonyms": [
+                "اگربتی",
+                "خوشبو"
+            ],
+            "categories": [
+                "Fragrance",
+                "Culture"
+            ],
+            "tags": [
+                "incense",
+                "aroma"
+            ],
+            "id": "123"
+        },
+        {
+            "word": "پروانہ",
+            "roman": "parwana",
+            "pronunciation": "parwana-doo",
+            "definitions": [
+                "Moth",
+                "Devotee"
+            ],
+            "examples": [
+                "پروانہ کی دنیا",
+                "پروانہ کی زندگی"
+            ],
+            "synonyms": [
+                "پتنگا",
+                "عاشق"
+            ],
+            "categories": [
+                "Nature",
+                "Literature"
+            ],
+            "tags": [
+                "moth",
+                "devotion"
+            ],
+            "id": "124"
+        },
+        {
+            "word": "قسمت",
+            "roman": "qismat",
+            "pronunciation": "qismat-doo",
+            "definitions": [
+                "Fate",
+                "Destiny"
+            ],
+            "examples": [
+                "قسمت کی دنیا",
+                "قسمت کی زندگی"
+            ],
+            "synonyms": [
+                "نصیب",
+                "مقدر"
+            ],
+            "categories": [
+                "Life",
+                "Philosophy"
+            ],
+            "tags": [
+                "fate",
+                "destiny"
+            ],
+            "id": "125"
+        },
+        {
+            "word": "روشنی",
+            "roman": "roshni",
+            "pronunciation": "roshni-doo",
+            "definitions": [
+                "Light",
+                "Illumination"
+            ],
+            "examples": [
+                "روشنی کی دنیا",
+                "روشنی کی زندگی"
+            ],
+            "synonyms": [
+                "اجالا",
+                "نور"
+            ],
+            "categories": [
+                "Nature",
+                "Physics"
+            ],
+            "tags": [
+                "light",
+                "brightness"
+            ],
+            "id": "126"
+        },
+        {
+            "word": "سکھ",
+            "roman": "sukh",
+            "pronunciation": "sukh-doo",
+            "definitions": [
+                "Happiness",
+                "Peace"
+            ],
+            "examples": [
+                "سکھ کی دنیا",
+                "سکھ کی زندگی"
+            ],
+            "synonyms": [
+                "خوشی",
+                "آرام"
+            ],
+            "categories": [
+                "Emotions",
+                "Psychology"
+            ],
+            "tags": [
+                "happiness",
+                "peace"
+            ],
+            "id": "127"
+        },
+        {
+            "word": "تاج",
+            "roman": "taaj",
+            "pronunciation": "taaj-doo",
+            "definitions": [
+                "Crown",
+                "Royal headwear"
+            ],
+            "examples": [
+                "تاج کی دنیا",
+                "تاج کی زندگی"
+            ],
+            "synonyms": [
+                "مکٹ",
+                "سر تاج"
+            ],
+            "categories": [
+                "Royalty",
+                "Accessories"
+            ],
+            "tags": [
+                "crown",
+                "royalty"
+            ],
+            "id": "128"
+        },
+        {
+            "word": "عالم",
+            "roman": "aalim",
+            "pronunciation": "aalim-doo",
+            "definitions": [
+                "Scholar",
+                "Learned person"
+            ],
+            "examples": [
+                "عالم کی دنیا",
+                "عالم کی زندگی"
+            ],
+            "synonyms": [
+                "دانشور",
+                "فاضل"
+            ],
+            "categories": [
+                "Education",
+                "Knowledge"
+            ],
+            "tags": [
+                "scholar",
+                "learned"
+            ],
+            "id": "129"
+        },
+        {
+            "word": "بہشت",
+            "roman": "bahisht",
+            "pronunciation": "bahisht-doo",
+            "definitions": [
+                "Paradise",
+                "Heaven"
+            ],
+            "examples": [
+                "بہشت کی دنیا",
+                "بہشت کی زندگی"
+            ],
+            "synonyms": [
+                "جنت",
+                "فردوس"
+            ],
+            "categories": [
+                "Religion",
+                "Spirituality"
+            ],
+            "tags": [
+                "paradise",
+                "heaven"
+            ],
+            "id": "130"
+        },
+        {
+            "word": "چاند",
+            "roman": "chaand",
+            "pronunciation": "chaand-doo",
+            "definitions": [
+                "Moon",
+                "Lunar body"
+            ],
+            "examples": [
+                "چاند کی دنیا",
+                "چاند کی زندگی"
+            ],
+            "synonyms": [
+                "ماہ",
+                "قمر"
+            ],
+            "categories": [
+                "Space",
+                "Nature"
+            ],
+            "tags": [
+                "moon",
+                "night"
+            ],
+            "id": "131"
+        },
+        {
+            "word": "دل",
+            "roman": "dil",
+            "pronunciation": "dil-doo",
+            "definitions": [
+                "Heart",
+                "Emotion"
+            ],
+            "examples": [
+                "دل کی دنیا",
+                "دل کی زندگی"
+            ],
+            "synonyms": [
+                "قلب",
+                "دھڑکن"
+            ],
+            "categories": [
+                "Body",
+                "Emotions"
+            ],
+            "tags": [
+                "heart",
+                "emotion"
+            ],
+            "id": "132"
+        },
+        {
+            "word": "انسان",
+            "roman": "insaan",
+            "pronunciation": "insaan-doo",
+            "definitions": [
+                "Human",
+                "Person"
+            ],
+            "examples": [
+                "انسان کی دنیا",
+                "انسان کی زندگی"
+            ],
+            "synonyms": [
+                "بشر",
+                "آدمی"
+            ],
+            "categories": [
+                "Human",
+                "Life"
+            ],
+            "tags": [
+                "human",
+                "person"
+            ],
+            "id": "133"
+        },
+        {
+            "word": "جنگل",
+            "roman": "jangal",
+            "pronunciation": "jangal-doo",
+            "definitions": [
+                "Forest",
+                "Jungle"
+            ],
+            "examples": [
+                "جنگل کی دنیا",
+                "جنگل کی زندگی"
+            ],
+            "synonyms": [
+                "بن",
+                "وادی"
+            ],
+            "categories": [
+                "Nature",
+                "Places"
+            ],
+            "tags": [
+                "forest",
+                "jungle"
+            ],
+            "id": "134"
+        },
+        {
+            "word": "خوشی",
+            "roman": "khushi",
+            "pronunciation": "khushi-doo",
+            "definitions": [
+                "Happiness",
+                "Joy"
+            ],
+            "examples": [
+                "خوشی کی دنیا",
+                "خوشی کی زندگی"
+            ],
+            "synonyms": [
+                "مسرت",
+                "شادمانی"
+            ],
+            "categories": [
+                "Emotions",
+                "Psychology"
+            ],
+            "tags": [
+                "happiness",
+                "joy"
+            ],
+            "id": "135"
+        },
+        {
+            "word": "محبت",
+            "roman": "mohabbat",
+            "pronunciation": "mohabbat-doo",
+            "definitions": [
+                "Love",
+                "Affection"
+            ],
+            "examples": [
+                "محبت کی دنیا",
+                "محبت کی زندگی"
+            ],
+            "synonyms": [
+                "پیار",
+                "عشق"
+            ],
+            "categories": [
+                "Emotions",
+                "Relationships"
+            ],
+            "tags": [
+                "love",
+                "affection"
+            ],
+            "id": "136"
+        },
+        {
+            "word": "پانی",
+            "roman": "paani",
+            "pronunciation": "paani-doo",
+            "definitions": [
+                "Water",
+                "Liquid"
+            ],
+            "examples": [
+                "پانی کی دنیا",
+                "پانی کی زندگی"
+            ],
+            "synonyms": [
+                "آب",
+                "ماء"
+            ],
+            "categories": [
+                "Nature",
+                "Elements"
+            ],
+            "tags": [
+                "water",
+                "liquid"
+            ],
+            "id": "137"
+        },
+        {
+            "word": "قدرت",
+            "roman": "qudrat",
+            "pronunciation": "qudrat-doo",
+            "definitions": [
+                "Nature",
+                "Power"
+            ],
+            "examples": [
+                "قدرت کی دنیا",
+                "قدرت کی زندگی"
+            ],
+            "synonyms": [
+                "فطرت",
+                "طاقت"
+            ],
+            "categories": [
+                "Nature",
+                "Philosophy"
+            ],
+            "tags": [
+                "nature",
+                "power"
+            ],
+            "id": "138"
+        },
+        {
+            "word": "رنگ",
+            "roman": "rang",
+            "pronunciation": "rang-doo",
+            "definitions": [
+                "Color",
+                "Hue"
+            ],
+            "examples": [
+                "رنگ کی دنیا",
+                "رنگ کی زندگی"
+            ],
+            "synonyms": [
+                "رنگت",
+                "لون"
+            ],
+            "categories": [
+                "Art",
+                "Visual"
+            ],
+            "tags": [
+                "color",
+                "hue"
+            ],
+            "id": "139"
+        },
+        {
+            "word": "سکون",
+            "roman": "sukoon",
+            "pronunciation": "sukoon-doo",
+            "definitions": [
+                "Peace",
+                "Tranquility"
+            ],
+            "examples": [
+                "سکون کی دنیا",
+                "سکون کی زندگی"
+            ],
+            "synonyms": [
+                "آرام",
+                "اطمینان"
+            ],
+            "categories": [
+                "Emotions",
+                "Psychology"
+            ],
+            "tags": [
+                "peace",
+                "tranquility"
+            ],
+            "id": "140"
+        },
+        {
+            "word": "تاج",
+            "roman": "taaj",
+            "pronunciation": "taaj-doo",
+            "definitions": [
+                "Crown",
+                "Royal headwear"
+            ],
+            "examples": [
+                "تاج کی دنیا",
+                "تاج کی زندگی"
+            ],
+            "synonyms": [
+                "مکٹ",
+                "سر تاج"
+            ],
+            "categories": [
+                "Royalty",
+                "Accessories"
+            ],
+            "tags": [
+                "crown",
+                "royalty"
+            ],
+            "id": "141"
+        },
+        {
+            "word": "وطن",
+            "roman": "watan",
+            "pronunciation": "watan-doo",
+            "definitions": [
+                "Homeland",
+                "Country"
+            ],
+            "examples": [
+                "وطن کی دنیا",
+                "وطن کی زندگی"
+            ],
+            "synonyms": [
+                "ملک",
+                "دیش"
+            ],
+            "categories": [
+                "Geography",
+                "Politics"
+            ],
+            "tags": [
+                "homeland",
+                "country"
+            ],
+            "id": "142"
+        },
+        {
+            "word": "یادگار",
+            "roman": "yaadgar",
+            "pronunciation": "yaadgar-doo",
+            "definitions": [
+                "Memorial",
+                "Souvenir"
+            ],
+            "examples": [
+                "یادگار لمحات",
+                "یادگار کی دنیا"
+            ],
+            "synonyms": [
+                "نشانی",
+                "یاد"
+            ],
+            "categories": [
+                "Memory",
+                "History"
+            ],
+            "tags": [
+                "memorial",
+                "memory"
+            ],
+            "id": "143"
+        },
+        {
+            "word": "زبان",
+            "roman": "zabaan",
+            "pronunciation": "zabaan-doo",
+            "definitions": [
+                "Language",
+                "Tongue"
+            ],
+            "examples": [
+                "زبان کی دنیا",
+                "زبان کی زندگی"
+            ],
+            "synonyms": [
+                "لسان",
+                "بولی"
+            ],
+            "categories": [
+                "Language",
+                "Communication"
+            ],
+            "tags": [
+                "language",
+                "speech"
+            ],
+            "id": "144"
+        },
+        {
+            "word": "آنکھ",
+            "roman": "aankh",
+            "pronunciation": "aankh-doo",
+            "definitions": [
+                "Eye",
+                "Vision"
+            ],
+            "examples": [
+                "آنکھوں میں آنسو",
+                "آنکھ کی دنیا"
+            ],
+            "synonyms": [
+                "نین",
+                "چشم"
+            ],
+            "categories": [
+                "Body",
+                "Anatomy"
+            ],
+            "tags": [
+                "eye",
+                "vision"
+            ],
+            "id": "145"
+        },
+        {
+            "word": "برف",
+            "roman": "baraf",
+            "pronunciation": "baraf-doo",
+            "definitions": [
+                "Ice",
+                "Snow"
+            ],
+            "examples": [
+                "برف کی چادر",
+                "برف کی دنیا"
+            ],
+            "synonyms": [
+                "یخ",
+                "ثلج"
+            ],
+            "categories": [
+                "Nature",
+                "Weather"
+            ],
+            "tags": [
+                "ice",
+                "snow"
+            ],
+            "id": "146"
+        },
+        {
+            "word": "فطرت",
+            "roman": "fitrat",
+            "pronunciation": "fitrat-doo",
+            "definitions": [
+                "Nature",
+                "Disposition"
+            ],
+            "examples": [
+                "فطرت کی دنیا",
+                "فطرت کی زندگی"
+            ],
+            "synonyms": [
+                "قدرت",
+                "سرشت"
+            ],
+            "categories": [
+                "Nature",
+                "Philosophy"
+            ],
+            "tags": [
+                "nature",
+                "character"
+            ],
+            "id": "147"
+        },
+        {
+            "word": "گھاس",
+            "roman": "ghaas",
+            "pronunciation": "ghaas-doo",
+            "definitions": [
+                "Grass",
+                "Lawn"
+            ],
+            "examples": [
+                "گھاس کی دنیا",
+                "گھاس کی زندگی"
+            ],
+            "synonyms": [
+                "سبزہ",
+                "چمن"
+            ],
+            "categories": [
+                "Nature",
+                "Plants"
+            ],
+            "tags": [
+                "grass",
+                "lawn"
+            ],
+            "id": "148"
+        },
+        {
+            "word": "ہوا",
+            "roman": "hawa",
+            "pronunciation": "hawa-doo",
+            "definitions": [
+                "Air",
+                "Wind"
+            ],
+            "examples": [
+                "ہوا کی دنیا",
+                "ہوا کی زندگی"
+            ],
+            "synonyms": [
+                "باد",
+                "نسیم"
+            ],
+            "categories": [
+                "Nature",
+                "Weather"
+            ],
+            "tags": [
+                "air",
+                "wind"
+            ],
+            "id": "149"
+        },
+        {
+            "word": "اجالا",
+            "roman": "ujala",
+            "pronunciation": "ujala-doo",
+            "definitions": [
+                "Light",
+                "Brightness"
+            ],
+            "examples": [
+                "اجالے کی دنیا",
+                "اجالے کی زندگی"
+            ],
+            "synonyms": [
+                "روشنی",
+                "نور"
+            ],
+            "categories": [
+                "Nature",
+                "Time"
+            ],
+            "tags": [
+                "light",
+                "dawn"
+            ],
+            "id": "150"
+        },
+        {
+            "word": "جنگل",
+            "roman": "jangal",
+            "pronunciation": "jangal-doo",
+            "definitions": [
+                "Forest",
+                "Jungle"
+            ],
+            "examples": [
+                "جنگل کی دنیا",
+                "جنگل کی زندگی"
+            ],
+            "synonyms": [
+                "بن",
+                "وادی"
+            ],
+            "categories": [
+                "Nature",
+                "Places"
+            ],
+            "tags": [
+                "forest",
+                "jungle"
+            ],
+            "id": "151"
+        },
+        {
+            "word": "کتاب",
+            "roman": "kitaab",
+            "pronunciation": "kitaab-doo",
+            "definitions": [
+                "Book",
+                "Volume"
+            ],
+            "examples": [
+                "کتاب کی دنیا",
+                "کتاب کی زندگی"
+            ],
+            "synonyms": [
+                "پستک",
+                "نسخہ"
+            ],
+            "categories": [
+                "Education",
+                "Literature"
+            ],
+            "tags": [
+                "book",
+                "reading"
+            ],
+            "id": "152"
+        },
+        {
+            "word": "لکیر",
+            "roman": "lakeer",
+            "pronunciation": "lakeer-doo",
+            "definitions": [
+                "Line",
+                "Streak"
+            ],
+            "examples": [
+                "لکیر کی دنیا",
+                "لکیر کی زندگی"
+            ],
+            "synonyms": [
+                "خط",
+                "ریکھا"
+            ],
+            "categories": [
+                "Art",
+                "Shapes"
+            ],
+            "tags": [
+                "line",
+                "mark"
+            ],
+            "id": "153"
+        },
+        {
+            "word": "مہینہ",
+            "roman": "maheena",
+            "pronunciation": "maheena-doo",
+            "definitions": [
+                "Month",
+                "Lunar month"
+            ],
+            "examples": [
+                "مہینے کی دنیا",
+                "مہینے کی زندگی"
+            ],
+            "synonyms": [
+                "ماہ",
+                "مہینا"
+            ],
+            "categories": [
+                "Time",
+                "Calendar"
+            ],
+            "tags": [
+                "month",
+                "time"
+            ],
+            "id": "154"
+        },
+        {
+            "word": "نظر",
+            "roman": "nazar",
+            "pronunciation": "nazar-doo",
+            "definitions": [
+                "Sight",
+                "Vision"
+            ],
+            "examples": [
+                "نظر کی دنیا",
+                "نظر کی زندگی"
+            ],
+            "synonyms": [
+                "دید",
+                "بصارت"
+            ],
+            "categories": [
+                "Senses",
+                "Perception"
+            ],
+            "tags": [
+                "sight",
+                "vision"
+            ],
+            "id": "155"
+        },
+        {
+            "word": "پرندہ",
+            "roman": "parinda",
+            "pronunciation": "parinda-doo",
+            "definitions": [
+                "Bird",
+                "Flying creature"
+            ],
+            "examples": [
+                "پرندے کی دنیا",
+                "پرندے کی زندگی"
+            ],
+            "synonyms": [
+                "طائر",
+                "پکھیرو"
+            ],
+            "categories": [
+                "Animals",
+                "Nature"
+            ],
+            "tags": [
+                "bird",
+                "flying"
+            ],
+            "id": "156"
+        },
+        {
+            "word": "قلم",
+            "roman": "qalam",
+            "pronunciation": "qalam-doo",
+            "definitions": [
+                "Pen",
+                "Writing instrument"
+            ],
+            "examples": [
+                "قلم کی دنیا",
+                "قلم کی زندگی"
+            ],
+            "synonyms": [
+                "خامہ",
+                "کلک"
+            ],
+            "categories": [
+                "Education",
+                "Tools"
+            ],
+            "tags": [
+                "pen",
+                "writing"
+            ],
+            "id": "157"
+        },
+        {
+            "word": "رات",
+            "roman": "raat",
+            "pronunciation": "raat-doo",
+            "definitions": [
+                "Night",
+                "Evening"
+            ],
+            "examples": [
+                "رات کی دنیا",
+                "رات کی زندگی"
+            ],
+            "synonyms": [
+                "شب",
+                "لیل"
+            ],
+            "categories": [
+                "Time",
+                "Nature"
+            ],
+            "tags": [
+                "night",
+                "darkness"
+            ],
+            "id": "158"
+        },
+        {
+            "word": "سورج",
+            "roman": "suraj",
+            "pronunciation": "suraj-doo",
+            "definitions": [
+                "Sun",
+                "Solar body"
+            ],
+            "examples": [
+                "سورج کی دنیا",
+                "سورج کی زندگی"
+            ],
+            "synonyms": [
+                "شمس",
+                "آفتاب"
+            ],
+            "categories": [
+                "Space",
+                "Nature"
+            ],
+            "tags": [
+                "sun",
+                "solar"
+            ],
+            "id": "159"
+        },
+        {
+            "word": "یاد",
+            "roman": "yaad",
+            "pronunciation": "yaad-doo",
+            "definitions": [
+                "Memory",
+                "Remembrance"
+            ],
+            "examples": [
+                "یاد کی دنیا",
+                "یاد کی زندگی"
+            ],
+            "synonyms": [
+                "حافظہ",
+                "ذکر"
+            ],
+            "categories": [
+                "Psychology",
+                "Memory"
+            ],
+            "tags": [
+                "memory",
+                "remembrance"
+            ],
+            "id": "160"
+        },
+        {
+            "word": "زمانہ",
+            "roman": "zamana",
+            "pronunciation": "zamana-doo",
+            "definitions": [
+                "Era",
+                "Period"
+            ],
+            "examples": [
+                "زمانے کی دنیا",
+                "زمانے کی زندگی"
+            ],
+            "synonyms": [
+                "دور",
+                "عہد"
+            ],
+            "categories": [
+                "Time",
+                "History"
+            ],
+            "tags": [
+                "era",
+                "period"
+            ],
+            "id": "161"
+        },
+        {
+            "word": "آرام",
+            "roman": "aaram",
+            "pronunciation": "aaram-doo",
+            "definitions": [
+                "Rest",
+                "Comfort"
+            ],
+            "examples": [
+                "آرام کی دنیا",
+                "آرام کی زندگی"
+            ],
+            "synonyms": [
+                "سکون",
+                "راحت"
+            ],
+            "categories": [
+                "Health",
+                "Comfort"
+            ],
+            "tags": [
+                "rest",
+                "comfort"
+            ],
+            "id": "162"
+        },
+        {
+            "word": "بہار",
+            "roman": "bahar",
+            "pronunciation": "bahar-doo",
+            "definitions": [
+                "Spring",
+                "Season"
+            ],
+            "examples": [
+                "بہار کی دنیا",
+                "بہار کی زندگی"
+            ],
+            "synonyms": [
+                "موسم بہار",
+                "بہار کا موسم"
+            ],
+            "categories": [
+                "Nature",
+                "Seasons"
+            ],
+            "tags": [
+                "spring",
+                "season"
+            ],
+            "id": "163"
+        },
+        {
+            "word": "چراغ",
+            "roman": "chiragh",
+            "pronunciation": "chiragh-doo",
+            "definitions": [
+                "Lamp",
+                "Light"
+            ],
+            "examples": [
+                "چراغ کی دنیا",
+                "چراغ کی زندگی"
+            ],
+            "synonyms": [
+                "دیا",
+                "بتی"
+            ],
+            "categories": [
+                "Objects",
+                "Light"
+            ],
+            "tags": [
+                "lamp",
+                "light"
+            ],
+            "id": "164"
+        },
+        {
+            "word": "درخت",
+            "roman": "darakht",
+            "pronunciation": "darakht-doo",
+            "definitions": [
+                "Tree",
+                "Plant"
+            ],
+            "examples": [
+                "درخت کی دنیا",
+                "درخت کی زندگی"
+            ],
+            "synonyms": [
+                "شجر",
+                "پیڑ"
+            ],
+            "categories": [
+                "Nature",
+                "Plants"
+            ],
+            "tags": [
+                "tree",
+                "plant"
+            ],
+            "id": "165"
+        },
+        {
+            "word": "عید",
+            "roman": "eid",
+            "pronunciation": "eid-doo",
+            "definitions": [
+                "Festival",
+                "Celebration"
+            ],
+            "examples": [
+                "عید کی دنیا",
+                "عید کی زندگی"
+            ],
+            "synonyms": [
+                "تہوار",
+                "جشن"
+            ],
+            "categories": [
+                "Religion",
+                "Celebration"
+            ],
+            "tags": [
+                "festival",
+                "celebration"
+            ],
+            "id": "166"
+        },
+        {
+            "word": "فرشتہ",
+            "roman": "farishta",
+            "pronunciation": "farishta-doo",
+            "definitions": [
+                "Angel",
+                "Divine messenger"
+            ],
+            "examples": [
+                "فرشتے کی دنیا",
+                "فرشتے کی زندگی"
+            ],
+            "synonyms": [
+                "ملک",
+                "ملائک"
+            ],
+            "categories": [
+                "Religion",
+                "Spirituality"
+            ],
+            "tags": [
+                "angel",
+                "divine"
+            ],
+            "id": "167"
+        },
+        {
+            "word": "گھر",
+            "roman": "ghar",
+            "pronunciation": "ghar-doo",
+            "definitions": [
+                "Home",
+                "Residence"
+            ],
+            "examples": [
+                "گھر کی دنیا",
+                "گھر کی زندگی"
+            ],
+            "synonyms": [
+                "مکان",
+                "آشیانہ"
+            ],
+            "categories": [
+                "Building",
+                "Family"
+            ],
+            "tags": [
+                "home",
+                "residence"
+            ],
+            "id": "168"
+        },
+        {
+            "word": "حکمت",
+            "roman": "hikmat",
+            "pronunciation": "hikmat-doo",
+            "definitions": [
+                "Wisdom",
+                "Insight"
+            ],
+            "examples": [
+                "حکمت کی دنیا",
+                "حکمت کی زندگی"
+            ],
+            "synonyms": [
+                "دانائی",
+                "عقل"
+            ],
+            "categories": [
+                "Knowledge",
+                "Philosophy"
+            ],
+            "tags": [
+                "wisdom",
+                "insight"
+            ],
+            "id": "169"
+        },
+        {
+            "word": "اتفاق",
+            "roman": "ittefaq",
+            "pronunciation": "ittefaq-doo",
+            "definitions": [
+                "Coincidence",
+                "Unity"
+            ],
+            "examples": [
+                "اتفاق کی دنیا",
+                "اتفاق کی زندگی"
+            ],
+            "synonyms": [
+                "میل",
+                "یکجہتی"
+            ],
+            "categories": [
+                "Events",
+                "Social"
+            ],
+            "tags": [
+                "coincidence",
+                "unity"
+            ],
+            "id": "170"
+        },
+        {
+            "word": "جنت",
+            "roman": "jannat",
+            "pronunciation": "jannat-doo",
+            "definitions": [
+                "Paradise",
+                "Heaven"
+            ],
+            "examples": [
+                "جنت کی دنیا",
+                "جنت کی زندگی"
+            ],
+            "synonyms": [
+                "فردوس",
+                "بہشت"
+            ],
+            "categories": [
+                "Religion",
+                "Spirituality"
+            ],
+            "tags": [
+                "paradise",
+                "heaven"
+            ],
+            "id": "171"
         }
     ]
 }

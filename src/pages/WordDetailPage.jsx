@@ -1,6 +1,7 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import { useBookmarks } from '../contexts/BookmarkContext';
+// Correct import for context in WordDetailPage.jsx
+import { useBookmarks } from '../contexts/BookmarkContext'; // Correct path to the context
 
 const WordDetailPage = ({ dictionary }) => {
   const { wordId } = useParams();
@@ -13,9 +14,7 @@ const WordDetailPage = ({ dictionary }) => {
   if (!word) {
     return (
       <div className="container mx-auto p-6 text-center">
-        <h1 className="text-2xl font-bold text-red-600">
-          Word Not Found
-        </h1>
+        <h1 className="text-2xl font-bold text-red-600">Word Not Found</h1>
       </div>
     );
   }
@@ -25,18 +24,14 @@ const WordDetailPage = ({ dictionary }) => {
       <div className="bg-white shadow-xl rounded-lg p-6">
         {/* Word Header with Bookmark Button */}
         <div className="flex justify-between items-center mb-6">
-          <h1 className="text-3xl font-bold text-right rtl:text-right">
-            {word.word}
-          </h1>
+          <h1 className="text-3xl font-bold text-right rtl:text-right">{word.word}</h1>
           <button
             onClick={() => toggleBookmark(word)}
-            className={`px-4 py-2 rounded-full transition-colors ${
-              isBookmarked(word.id)
-                ? 'bg-yellow-500 text-white hover:bg-yellow-600'
-                : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
-            }`}
+            className={`px-4 py-2 rounded-full transition-colors ${isBookmarked(word.word)
+              ? 'bg-yellow-500 text-white hover:bg-yellow-600'
+              : 'bg-gray-200 text-gray-700 hover:bg-gray-300'}`}
           >
-            {isBookmarked(word.id) ? '★ Bookmarked' : '☆ Bookmark'}
+            {isBookmarked(word.word) ? '★ Bookmarked' : '☆ Bookmark'}
           </button>
         </div>
 
@@ -70,9 +65,7 @@ const WordDetailPage = ({ dictionary }) => {
           <h2 className="text-2xl font-semibold mb-4">Definitions</h2>
           <ul className="list-disc list-inside text-gray-700">
             {word.definitions.map((def, index) => (
-              <li key={index} className="mb-2">
-                {def}
-              </li>
+              <li key={index} className="mb-2">{def}</li>
             ))}
           </ul>
         </div>
@@ -84,9 +77,7 @@ const WordDetailPage = ({ dictionary }) => {
             <h2 className="text-xl font-semibold mb-2">Examples</h2>
             <ul className="list-disc list-inside text-right rtl:text-right">
               {word.examples.map((example, index) => (
-                <li key={index} className="mb-2">
-                  {example}
-                </li>
+                <li key={index} className="mb-2">{example}</li>
               ))}
             </ul>
           </div>

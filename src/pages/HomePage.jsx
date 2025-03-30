@@ -45,7 +45,7 @@ const HomePage = ({ dictionary }) => {
   return (
     <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
       {/* Hero Section */}
-      <div className="relative bg-gradient-to-r from-blue-600 via-blue-700 to-blue-800 text-white py-20 overflow-hidden">
+      <div className="relative bg-gradient-to-r from-red-600 via-blue-700 to-blue-800 text-white py-20 overflow-hidden">
         <div className="absolute inset-0 bg-grid-white/[0.05] bg-[size:60px_60px]" />
         <div className="absolute inset-0 bg-gradient-to-t from-blue-900/50 to-transparent" />
 
