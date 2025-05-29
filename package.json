@@ -23,7 +23,7 @@
   },
   "eslintConfig": {
     "extends": [
-      "Urdu Diary",
+      "react-app",
       "react-app/jest"
     ]
   },
